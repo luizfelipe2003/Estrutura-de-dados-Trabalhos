@@ -1,0 +1,26 @@
+Vetor Ordenado:
+abacate
+abacaxi
+amora
+banana
+caqui
+cereja
+figo
+framboesa
+goiaba
+kiwi
+laranja
+limao
+maca
+manga
+melancia
+morango
+papaya
+pera
+pessego
+uva
+
+Numero de comparacoes: 64
+Numero de trocas: 64
+
+Mediana: laranja
